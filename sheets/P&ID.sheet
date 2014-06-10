@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<!--Dia-Version: 0.97.2-->
+<!--File: /home/brownie/.dia/sheets/P&ID.sheet-->
+<!--Date: Fri May 30 20:24:15 2014-->
+<!--For: brownie-->
+
+<name>P&amp;ID</name>
+<description>Piping and Instrumentation Diagrams</description>
+<contents>
+<!--add shapes here-->
+<object name="Pump H">
+<description>Pump - Horizontal</description>
+</object>
+<object name="Pump V">
+<description>Pump - Vertical</description>
+</object>
+<object name="Turbo H">
+<description>Turbomolecular Pump - Horizontal</description>
+</object>
+<object name="Turbo V">
+<description>Turbomolecular Pump - Vertical</description>
+</object>
+<object name="Roots Blower H">
+<description>Roots Blower Pump - Horizontal</description>
+</object>
+<object name="Roots Blower V">
+<description>Roots Blower Pump - Vertical</description>
+</object>
+<object name="Valve H">
+<description>Valve - Horizontal</description>
+</object>
+<object name="Valve V">
+<description>Valve - Vertical</description>
+</object>
+<object name="Ball Valve H">
+<description>Ball Valve - Horizontal</description>
+</object>
+<object name="Ball Valve V">
+<description>Ball Valve - Vertical</description>
+</object>
+<object name="Diaphragm Valve H">
+<description>Diaphragm Valve - Horizontal</description>
+</object>
+<object name="Diaphragm Valve V">
+<description>Diaphragm Valve - Vertical</description>
+</object>
+<object name="Needle Valve H">
+<description>Needle Valve - Horizontal</description>
+</object>
+<object name="Needle Valve V">
+<description>Needle Valve - Vertical</description>
+</object>
+<object name="Control Valve H">
+<description>Control Valve - Horizontal</description>
+</object>
+<object name="Control Valve V">
+<description>Control Valve - Vertical</description>
+</object>
+<object name="Aperture H">
+<description>Aperture - Horizontal</description>
+</object>
+<object name="Aperture V">
+<description>Aperture - Vertical</description>
+</object>
+<object name="Gauge">
+<description>Gauge</description>
+</object>
+<object name="Bottle">
+<description>Gas Bottle</description>
+</object>
+<object name="Point">
+<description>Point</description>
+</object>
+</contents>
+</sheet>

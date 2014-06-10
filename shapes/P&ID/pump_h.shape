@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Pump H</name>
+  <description>Pump - Horizontal</description>
+  <icon>pump_h.png</icon>
+  <default-width>4cm</default-width>
+  <default-height>4cm</default-height>
+  <connections>
+    <point x="0" y="2"/>
+    <point x="4" y="2"/>
+    <point x="2" y="2" main="yes"/>
+  </connections>
+  <svg:svg width="4.0" height="4.0">
+   <svg:circle cx="2" cy="2" r="2" style="fill: default"/>
+   <svg:line x1="1.610" y1="3.9615" x2="4" y2="2"/>
+   <svg:line x1="1.610" y1="0.0385" x2="4" y2="2"/>
+ </svg:svg>
+</shape>

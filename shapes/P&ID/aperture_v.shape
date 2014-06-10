@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Aperture V</name>
+  <description>Aperture - Vertical</description>
+  <icon>aperture_v.png</icon>
+  <default-width>2cm</default-width>
+  <default-height>2cm</default-height>
+  <connections>
+    <point x="1" y="0"/>
+    <point x="1" y="2"/>
+  </connections>
+  <svg:svg width="2.0" height="2.0">
+   <svg:polyline points=".5 0 .75 .25 .75 1.75 .5 2"/>
+   <svg:polyline points="1.5 0 1.25 .25 1.25 1.75 1.5 2"/>
+   <svg:rect x="0" y="0" width="2" height="2" style="fill:none;stroke:none"/>
+ </svg:svg>
+</shape>

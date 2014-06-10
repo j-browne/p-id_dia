@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Roots Blower H</name>
+  <description>Roots Blower Pump - Horizontal</description>
+  <icon>roots_h.png</icon>
+  <default-width>4cm</default-width>
+  <default-height>4cm</default-height>
+  <connections>
+    <point x="0" y="2"/>
+    <point x="4" y="2"/>
+    <point x="2" y="2" main="yes"/>
+  </connections>
+  <svg:svg width="4.0" height="4.0">
+   <svg:circle cx="2" cy="2" r="2" style="fill: default"/>
+   <svg:path d="M 1.75 1.375 a .625 .625 0 0 0 0 1.25"/>
+   <svg:path d="M 2.25 1.375 a .625 .625 0 0 1 0 1.25"/>
+   <svg:line x1="1.125" y1="2" x2="2.875" y2="2"/>
+   <svg:line x1="1.610" y1="3.9615" x2="3.9615" y2="2.390"/>
+   <svg:line x1="1.610" y1="0.0385" x2="3.9615" y2="1.610"/>
+ </svg:svg>
+</shape>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Bottle</name>
+  <description>Gas Bottle</description>
+  <icon>bottle.png</icon>
+  <default-width>2cm</default-width>
+  <default-height>8cm</default-height>
+  <connections>
+    <point x="1" y="0" main="yes"/>
+  </connections>
+  <svg:svg width="2.0" height="8.0">
+   <svg:path d="M .5 2 L .5 .5 a .25 .25 0 0 1 1 0 L 1.5 2 z" style="fill:default"/>
+   <svg:path d="M 0 8 L 0 2 a 1 1 0 0 1 2 0 L 2 8 z" style="fill:default"/>
+ </svg:svg>
+</shape>

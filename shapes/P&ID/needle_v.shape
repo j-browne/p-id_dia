@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Needle Valve V</name>
+  <description>Needle Valve - Vertical</description>
+  <icon>needle_v.png</icon>
+  <default-width>2cm</default-width>
+  <default-height>2cm</default-height>
+  <connections>
+    <point x="1" y="0"/>
+    <point x="1" y="2"/>
+  </connections>
+  <svg:svg width="2.0" height="2.0">
+   <svg:path d="M .5 0 L 1.5 2 .5 2 1.5 0 z" style="fill:default"/>
+   <svg:path d="M 1.75 .75 L 1 1 1.75 1.25 z" style="fill:inverse"/>
+   <svg:rect x="0" y="0" width="2" height="2" style="fill:none;stroke:none"/>
+ </svg:svg>
+</shape>
