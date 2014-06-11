@@ -72,5 +72,20 @@
 <object name="Point">
 <description>Point</description>
 </object>
+<object name="Cross">
+<description>Four-way Cross</description>
+</object>
+<object name="Tee H">
+<description>Tee - Horizontal</description>
+</object>
+<object name="Tee V">
+<description>Tee - Vertical</description>
+</object>
+<object name="Sixway V">
+<description>Six-way Cross - Vertical</description>
+</object>
+<object name="Sixway H">
+<description>Six-way Cross - Horizontal</description>
+</object>
 </contents>
 </sheet>
