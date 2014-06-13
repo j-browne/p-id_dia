@@ -57,6 +57,12 @@
 <object name="Control Valve V">
 <description>Control Valve - Vertical</description>
 </object>
+<object name="Regulator H">
+<description>Pressure Regulator - Horizontal</description>
+</object>
+<object name="Regulator V">
+<description>Pressure Regulator - Vertical</description>
+</object>
 <object name="Aperture H">
 <description>Aperture - Horizontal</description>
 </object>
