@@ -27,6 +27,12 @@
 <object name="Roots Blower V">
 <description>Roots Blower Pump - Vertical</description>
 </object>
+<object name="Compressor H">
+<description>Compressor - Horizontal</description>
+</object>
+<object name="Compressor V">
+<description>Compressor - Vertical</description>
+</object>
 <object name="Valve H">
 <description>Valve - Horizontal</description>
 </object>
