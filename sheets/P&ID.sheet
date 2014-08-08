@@ -39,6 +39,12 @@
 <object name="Valve V">
 <description>Valve - Vertical</description>
 </object>
+<object name="Check Valve H">
+<description>Check Valve - Horizontal</description>
+</object>
+<object name="Check Valve V">
+<description>Check Valve - Vertical</description>
+</object>
 <object name="Ball Valve H">
 <description>Ball Valve - Horizontal</description>
 </object>
