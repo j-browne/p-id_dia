@@ -14,7 +14,6 @@
    <svg:line x1=".5" y1="0" x2="1.5" y2="0"/>
    <svg:line x1=".5" y1="2" x2="1.5" y2="2"/>
    <svg:line x1=".5" y1="0" x2="1.5" y2="2"/>
-   <svg:circle cx=".5" cy="0" r=".125" style="fill:inverse"/>
    <svg:polygon points="1.5 2 1.437 1.557 1.184 1.684" style="fill:inverse"/>
    <svg:rect x="0" y="0" width="2" height="2" style="fill:none;stroke:none"/>
  </svg:svg>
