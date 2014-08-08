@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
        xmlns:svg="http://www.w3.org/2000/svg">
-  <name>Check Valve H</name>
-  <description>Check Valve - Horizontal</description>
-  <icon>check_valve_h.png</icon>
+  <name>Check Valve V</name>
+  <description>Check Valve - Vertical</description>
+  <icon>check_valve_v.png</icon>
   <default-width>2cm</default-width>
   <default-height>2cm</default-height>
   <connections>
