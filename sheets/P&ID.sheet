@@ -81,6 +81,12 @@
 <object name="Aperture V">
 <description>Aperture - Vertical</description>
 </object>
+<object name="Heat Exchanger H">
+<description>Heat Exchanger - Horizontal</description>
+</object>
+<object name="Heat Exchanger V">
+<description>Heat Exchanger - Vertical</description>
+</object>
 <object name="Gauge">
 <description>Gauge</description>
 </object>
